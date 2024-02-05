@@ -1,0 +1,27 @@
+{
+  "name": "flowerr",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Flowerr client integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flowerr-cloud/flowerr.git"
+  },
+  "keywords": [
+    "flowerr"
+  ],
+  "author": "dharkflower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flowerr-cloud/flowerr/issues"
+  },
+  "homepage": "https://github.com/flowerr-cloud/flowerr#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1"
+  }
+}
