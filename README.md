@@ -2,7 +2,7 @@
 
 ```javascript
 import 'dotenv/config'
-import { datum } from './index.js'
+import { datum } from 'flowerr'
 
 await datum({ something: 'saved' })
 ```
